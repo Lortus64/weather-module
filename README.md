@@ -6,7 +6,7 @@ Skriv en README.md till modulen som berättar hur man via composer installerar o
 
 Install using composer:
 
-    composer require kris3xiq/weatherservice
+    composer require lortus64/weather-module
 
 When the module is installed go to the root directory of the project and use the following comand:
 
