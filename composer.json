@@ -1,0 +1,27 @@
+{
+    "name": "lortus64/weather-module",
+    "description": "Weather module for anax",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adam Eriksson",
+            "email": "adam.lunkentuss@gmail.com"
+        }
+    ],"autoload": {
+        "psr-4": {
+            "Anax\\": "src/",
+            "lortus64\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.4",
+        "anax/di": "^2.0.3",
+        "anax/commons": "^2.0.14"
+    },
+    "require-dev": {
+        "anax/anax": "^2.0.17",
+        "anax/anax-ramverk1-me": "^1.0.0",
+        "phpunit/phpunit": "^7"
+    }
+}
