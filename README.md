@@ -1,8 +1,6 @@
-Skriv en README.md till modulen som berättar hur man via composer installerar och integrerar modulen till en Anax installation likt din redovisa-sida.
-
-
-## Anax module for Weather service
-# Installation
+## Anax Weather module
+=======
+Installation
 
 Install using composer:
 
