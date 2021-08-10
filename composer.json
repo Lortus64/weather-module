@@ -15,7 +15,7 @@
     },
     "minimum-stability": "dev",
     "require": {
-        "php": ">=7",
+        "php": ">=7.0.0",
         "anax/di": "^2.0.3",
         "anax/commons": "^2.0.14"
     },
